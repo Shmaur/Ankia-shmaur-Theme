@@ -48,5 +48,14 @@ WhiteMinimalist-Theme 是基于 Trilium 分享功能搭建的一个博客站点�
 导入成功后，点击分享，进入到 home 就可以看到如下页面  
 ![微信图片_20240818000422](https://github.com/user-attachments/assets/2d507b0f-f72c-454b-8d10-0bdc4410fdf0)
 
+## 捐赠
+如果您喜欢这个主题，请考虑支持我。非常感谢您的贡献！
+微信：
+![image](https://github.com/user-attachments/assets/7b60bdba-c578-4051-86e6-08edd59c6051)
+支付宝：
+![image](https://github.com/user-attachments/assets/0df6645f-849a-4a06-a53e-e2ca4336f7b2)
+
+
+
 
 
