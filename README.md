@@ -10,8 +10,7 @@ WhiteMinimalist-Theme 是基于 Trilium 分享功能搭建的一个博客站点�
 ![微信图片_20240817235336](https://github.com/user-attachments/assets/6061773d-c61c-4877-9659-19a2779d23f4)  
 详情页
 ![左边菜单目录右边页面大纲](https://github.com/user-attachments/assets/85dd7c17-413a-40ba-b734-50b3805bca60)  
-移动端首页   
-![image](https://github.com/user-attachments/assets/1133dd4d-2980-4115-9e61-3e9a5810b6a0)  
+
 移动端详情页   
 ![image](https://github.com/user-attachments/assets/4772ee0a-dc68-4552-9395-dd7825f91cb4)  
 移动端详情页 - 页面大纲  
@@ -20,8 +19,6 @@ WhiteMinimalist-Theme 是基于 Trilium 分享功能搭建的一个博客站点�
 ![image](https://github.com/user-attachments/assets/40b569b5-b6ba-4fb8-8e2a-d5889f2da3c5)  
 移动端详情页 - 一级导航    
 ![image](https://github.com/user-attachments/assets/458ad199-7cd5-4c98-a346-b497ca9945d4)  
-移动端详情页 - 搜索    
-![image](https://github.com/user-attachments/assets/157c9ca5-056f-4106-ac29-b81a97ec0a0d)  
 
 
 
@@ -49,10 +46,10 @@ WhiteMinimalist-Theme 是基于 Trilium 分享功能搭建的一个博客站点�
 ![微信图片_20240818000422](https://github.com/user-attachments/assets/2d507b0f-f72c-454b-8d10-0bdc4410fdf0)
 
 ## 捐赠
-如果您喜欢这个主题，请考虑支持我。非常感谢您的贡献！
-微信：
+如果您喜欢这个主题，请考虑支持我。非常感谢您的贡献！  
+微信：  
 ![image](https://github.com/user-attachments/assets/7b60bdba-c578-4051-86e6-08edd59c6051)
-支付宝：
+支付宝：  
 ![image](https://github.com/user-attachments/assets/0df6645f-849a-4a06-a53e-e2ca4336f7b2)
 
 
